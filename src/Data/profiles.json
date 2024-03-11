@@ -1,0 +1,56 @@
+[
+{
+    "id": 1,
+    "name":"fhhh",
+    "age":11,
+    "company":"eytyy",
+    "designation":"rkkff",
+    "image":"ruur",
+    "contact":"000-0000",
+    "address":{
+        "Permanent":"trtu",
+        "Home":"ruurru"
+    },
+    "School":"esgg",
+    "Course":"wszg",
+    "WorkExperience":"wqerty",
+    "Gender":{"Male":0,"Female":1},
+    "Relationship":{"S":1, "M":2,"W":3}
+},
+{
+    "id": 2,
+    "name":"kdfgh",
+    "age":22,
+    "company":"wejuik",
+    "designation":"szjt",
+    "image":"ekdd",
+    "contact":"000-0000-0001",
+    "address":{
+        "Permanent":"dker",
+        "Home":"tskkr6"
+    },
+    "School":"shrt",
+    "Course":"aeajhh",
+    "WorkExperience":"aarr",
+    "Gender":{"Male":0,"Female":1},
+    "Relationship":{"S":1, "M":2,"W":3}
+},
+{
+    "id": 3,
+    "name":"eryhe",
+    "age":33,
+    "company":"WWJH",
+    "designation":"awrr",
+    "image":"awgtgh",
+    "contact":"000-0000-0002",
+    "address":{
+        "Permanent":"dseh",
+        "Home":"sdhjnj"
+    },
+    "School":"awdyj",
+    "Course":"ssjju",
+    "WorkExperience":"",
+    "Gender":{"Male":0,"Female":1},
+    "Relationship":{"S":1, "M":2,"W":3}
+}
+]
